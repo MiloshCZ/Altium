@@ -1,0 +1,45 @@
+Importer Log Report
+Project : Arduino-Pro-Mini.PrjPcb
+
+Section : Analyze Document - C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\Arduino-Pro-Mini.brd
+    Analyzing data of C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\Arduino-Pro-Mini.brd
+    Load settings
+    Load layers 108
+    Load Library "SparkFun"
+    Load Packages 12
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 1
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "Testing"
+    Load Packages 3
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\Arduino-Pro-Mini.sch
+    Analyzing data of C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\Arduino-Pro-Mini.sch
+    Load settings
+    Load layers 108
+    Load schematic
+    Load Libraries 4
+    Load Library "SparkFun"
+    Load Packages 86
+    Load Symbols 13
+    Load DeviceSets 13
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "SparkFun-Passives"
+    Load Packages 4
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Testing"
+    Load Packages 23
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Attributes 0
+    Load Classes 2
+    Load Parts 46
+    Load Sheets 1
+EndSection

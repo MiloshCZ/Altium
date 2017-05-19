@@ -1,0 +1,38 @@
+Importer Log Report
+Project : RFM69HCW_BOB.PrjPcb
+
+Section : Analyze Document - C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\RFM69HCW_BOB.brd
+    Analyzing data of C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\RFM69HCW_BOB.brd
+    Load settings
+    Load layers 108
+    Load Library "mike-temp"
+    Load Packages 5
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 4
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+EndSection
+
+Section : Analyze Document - C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\RFM69HCW_BOB.sch
+    Analyzing data of C:\Users\kazda\OneDrive\My Documents\Altium\Libraries\RFM69HCW_BOB.sch
+    Load settings
+    Load layers 108
+    Load schematic
+    Load Libraries 3
+    Load Library "mike-temp"
+    Load Packages 63
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 16
+    Load Symbols 7
+    Load DeviceSets 6
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 2
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 20
+    Load Sheets 1
+EndSection
