@@ -1,0 +1,125 @@
+*************************************************************
+FileName = I2C_Soil_1.0.0-panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : L4
+      File : I2C_Soil_1.0.0-panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L1
+      File : I2C_Soil_1.0.0-panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : I2C_Soil_1.0.0-panel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D18
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : I2C_Soil_1.0.0-panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : I2C_Soil_1.0.0-panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : I2C_Soil_1.0.0-panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : I2C_Soil_1.0.0-panel.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D19
+    D26
+*************************************************************
+
