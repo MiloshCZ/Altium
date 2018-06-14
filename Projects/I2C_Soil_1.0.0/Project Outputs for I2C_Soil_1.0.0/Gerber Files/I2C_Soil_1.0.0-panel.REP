@@ -2,22 +2,6 @@
 FileName = I2C_Soil_1.0.0-panel.GBR
 AutoAperture = True
 *************************************************************
-Generating : L4
-      File : I2C_Soil_1.0.0-panel.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
 Generating : L1
       File : I2C_Soil_1.0.0-panel.GTL
 
@@ -60,6 +44,28 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Paste
+      File : I2C_Soil_1.0.0-panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D29
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : I2C_Soil_1.0.0-panel.GTS
 
@@ -71,7 +77,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D29
     D30
     D31
     D32
@@ -82,6 +87,7 @@ Used DCodes :
     D37
     D38
     D39
+    D40
 *************************************************************
 
 *************************************************************
@@ -96,9 +102,9 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D37
     D38
     D39
+    D40
 *************************************************************
 
 *************************************************************
@@ -121,5 +127,21 @@ Generating : Keep-Out Layer
 Used DCodes :
     D19
     D26
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : I2C_Soil_1.0.0-panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D21
+    D22
+    D23
 *************************************************************
 

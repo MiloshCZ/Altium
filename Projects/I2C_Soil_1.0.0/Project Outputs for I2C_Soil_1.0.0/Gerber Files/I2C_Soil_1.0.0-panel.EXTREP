@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: I2C_Soil_1.0.0-panel.GBR   30.05.2018  11:52:05
+Gerber File Extension Report For: I2C_Soil_1.0.0-panel.GBR   14.06.2018  9:46:56
 ------------------------------------------------------------------------------------------
 
 
@@ -7,6 +7,7 @@ Gerber File Extension Report For: I2C_Soil_1.0.0-panel.GBR   30.05.2018  11:52:0
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTO                Top Overlay                             
+.GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                L1                                      
 .GBL                L4                                      
