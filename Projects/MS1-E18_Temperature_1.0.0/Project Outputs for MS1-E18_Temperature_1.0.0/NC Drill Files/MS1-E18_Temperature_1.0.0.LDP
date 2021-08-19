@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\kazda\OneDrive\My Documents\Projekty\Altium\Projects\MS1-E18_Temperature_1.0.0\MS1-E18_Temperature_1.0.0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=ms1-e18_temperature_1.0.0-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=ms1-e18_temperature_1.0.0-nonplated.txt|DrillLayers=gtl,gbl
