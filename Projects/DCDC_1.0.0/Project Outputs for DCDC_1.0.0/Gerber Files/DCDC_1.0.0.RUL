@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\kazda\OneDrive\My Documents\Projekty\Altium\Projects\DCDC_1.0.0\DCDC_1.0.0.PcbDoc
+RuleKind=Width|RuleName=Width - Power|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion - Via|Scope=Board|Minimum=1.97
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
